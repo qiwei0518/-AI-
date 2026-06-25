@@ -2,8 +2,8 @@
   "date": "20260625",
   "version": "V6",
   "build": 2026062506,
-  "downloadUrl": "https://github.com/OWNER/REPO/releases/latest/download/%E6%9F%92%E6%83%9FAI%E7%94%9F%E5%9B%BE%E5%B7%A5%E4%BD%9C%E5%8F%B0.exe",
-  "fileName": "柒惟AI生图工作台0625V6.exe",
+  "downloadUrl": "https://github.com/qiwei0518/柒惟AI生图工作台/releases/latest/download/QiweiAIStudio.exe",
+  "fileName": "QiweiAIStudio.exe",
   "sha256": "10568EDBEBB94016289637EE71BBF953EBAF988897BAC8697B75E7927636DE9B",
   "mandatory": false,
   "notes": [
